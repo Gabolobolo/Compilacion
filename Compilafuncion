@@ -1,0 +1,2 @@
+gcc funcion.c main.c -o nombrecualquiera
+nombrecualquiera
